@@ -30,9 +30,7 @@ npm run dev
 
 ## Project Structure
 
-The project structure is organized as follows:
-
-`plaintext
+The project structure is organized as follow
 .
 ├── .github/
 │   └── workflows/
@@ -64,3 +62,4 @@ The project structure is organized as follows:
 ├── tailwind.config.ts          # Tailwind CSS configuration file
 └── tsconfig.json               # TypeScript configuration file
 
+# internship-assesment
