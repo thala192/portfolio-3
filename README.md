@@ -2,13 +2,6 @@
 
 Welcome to my personal portfolio, built using **Next.js**! This project showcases my skills, projects, and experience. Feel free to explore and reach out if you'd like to connect.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-
 ## Features
 
 - **Navigation**: Easily accessible sections such as About, Projects, Work Experience, and Contact.
